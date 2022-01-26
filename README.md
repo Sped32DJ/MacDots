@@ -1,4 +1,4 @@
 # MacDots
 
-#Window Manager
+## Window Manager
 Idk, Amethyst or Yabai (probably Amethyst)
